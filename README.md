@@ -1,0 +1,2 @@
+TODO:
+colocar sleep thred
